@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Dark patterns for Hidden Costs**
+- 🔭 I’m currently working on **Car Rental System**
 
-- 🌱 I’m currently learning **javaScript,mongoDB,react,Bootstrap**
+- 🌱 I’m currently learning **javaScript,React,Angular**
 
-- 👯 I’m looking to collaborate on **Data Analysis and Web Development**
+- 👯 I’m looking to collaborate on **Java Full Stack**
 
-- 🤝 I’m looking for help with **dark patterns**
+- 🤝 I’m looking for help with **Web applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohd-sammad](https://github.com/mohd-sammad)
 
-- 💬 Ask me about **python,html,css**
+- 💬 Ask me about **Java,Springboot,HTML,CSS,Bootstrap**
 
 - 📫 How to reach me **sammadmohammed23@gmail.com**
 
